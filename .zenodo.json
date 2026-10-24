@@ -1,0 +1,40 @@
+{
+  "title": "sunasty_color_math: Zero-dependency sRGB, OKLCH, and WCAG 2.1 Color Conversions for Dart and Flutter",
+  "description": "Zero-dependency algorithmic Dart package for IEC 61966-2-1 sRGB gamma linearization, Oklab/OKLCH perceptual transformations, and WCAG 2.1 accessibility contrast calculation. Developed for Flutter and WebAssembly client-side applications as part of the Sunasty web utility suite.",
+  "creators": [
+    {
+      "name": "Sulyan, Bastien",
+      "affiliation": "Sunasty"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "color space",
+    "oklch",
+    "srgb",
+    "wcag",
+    "flutter",
+    "dart",
+    "accessibility",
+    "contrast ratio"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://sunasty.com",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pub.dev/packages/sunasty_color_math",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/bsulyan/sunasty-color-math-dart",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "upload_type": "software"
+}
