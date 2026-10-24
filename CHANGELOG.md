@@ -1,3 +1,8 @@
+## 1.0.1
+
+- Add comprehensive `example/` usage code for OKLCH conversion, hex parsing, and WCAG 2.1 contrast calculation.
+- Documentation and score optimizations for pub.dev points.
+
 ## 1.0.0
 
 - Initial stable release.

@@ -1,6 +1,6 @@
 name: sunasty_color_math
 description: Zero-dependency sRGB and OKLCH color conversions and WCAG 2.1 accessibility contrast calculation.
-version: 1.0.0
+version: 1.0.1
 homepage: https://sunasty.com
 repository: https://github.com/bsulyan/sunasty-color-math-dart
 issue_tracker: https://github.com/bsulyan/sunasty-color-math-dart/issues
